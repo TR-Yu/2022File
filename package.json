@@ -1,0 +1,12 @@
+{
+  "name": "tryu-2022file",
+  "version": "1.0.0",
+  "description": "the file of 2022",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TR-Yu/2022File.git"
+  },
+  "author": "tryu",
+  "license": "ISC",
+  "homepage": "https://github.com/TR-Yu/2022File#readme"
+}
